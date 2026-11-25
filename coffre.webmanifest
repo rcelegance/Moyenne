@@ -1,0 +1,13 @@
+{
+  "name": "Coffre à codes",
+  "short_name": "Coffre",
+  "start_url": "./coffre.html",
+  "scope": "./coffre",
+  "display": "standalone",
+  "background_color": "#102854",
+  "theme_color": "#102854",
+  "icons": [
+    {"src": "coffre-192.png", "sizes": "192x192", "type": "image/png"},
+    {"src": "coffre-512.png", "sizes": "512x512", "type": "image/png"}
+  ]
+}
